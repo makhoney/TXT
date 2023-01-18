@@ -1,0 +1,4 @@
+film - Home Alone
+serial - Black Mirror
+food - doner
+country - USA
